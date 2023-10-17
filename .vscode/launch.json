@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysList",
+            "request": "launch",
+            "mainClass": "ArraysList",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearchOrderAgnostic",
+            "request": "launch",
+            "mainClass": "BinarySearchOrderAgnostic",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiAL",
+            "request": "launch",
+            "mainClass": "MultiAL",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Swaparrays",
+            "request": "launch",
+            "mainClass": "Swaparrays",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayindnumer",
+            "request": "launch",
+            "mainClass": "arrayindnumer",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrays",
+            "request": "launch",
+            "mainClass": "arrays",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch cvgcvgvcgj",
+            "request": "launch",
+            "mainClass": "cvgcvgvcgj",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch multidimensionalarray",
+            "request": "launch",
+            "mainClass": "multidimensionalarray",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch search0Linear",
+            "request": "launch",
+            "mainClass": "search0Linear",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch search1instring13",
+            "request": "launch",
+            "mainClass": "search1instring13",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch search2inrange13",
+            "request": "launch",
+            "mainClass": "search2inrange13",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch search3in2darray13",
+            "request": "launch",
+            "mainClass": "search3in2darray13",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch search4evendigits13",
+            "request": "launch",
+            "mainClass": "search4evendigits13",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch search5maxwealth13",
+            "request": "launch",
+            "mainClass": "search5maxwealth13",
+            "projectName": "ds algo_6abca7d5"
+        },
+        {
+            "type": "java",
+            "name": "Launch zero",
+            "request": "launch",
+            "mainClass": "zero",
+            "projectName": "ds algo_6abca7d5"
+        }
+    ]
+}
